@@ -22,5 +22,6 @@ Installation
 * Run usltprog/setup.exe
 * Language settings -> English -> Options -> Remove US (QUERTY) *"Lithuanian (AltGr)" should already be there*
 * Language settings -> Lithuanian -> Options -> Remove Lithuanian (QUERTY) *"Lithuanian (AltGr)" should already be there*
+* Restart PC
 
 That's it, you don't need to switch languages to type lithuanian characters, but only for proofing tools to work when you need it.
