@@ -20,7 +20,6 @@ Installation
 ============
 * Run ltprog/setup.exe
 * Run usltprog/setup.exe
-* Reboot
 * Language settings -> English -> Options -> Remove US (QUERTY) *"Lithuanian (AltGr)" should already be there*
 * Language settings -> Lithuanian -> Options -> Remove Lithuanian (QUERTY) *"Lithuanian (AltGr)" should already be there*
 
