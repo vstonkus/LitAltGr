@@ -18,10 +18,10 @@ The keyboard file was generated using Microsoft Keyboard Layout Creator 1.4.
 
 Installation
 ============
-Run ltprog/setup.exe
-Run usltprog/setup.exe
-Reboot
-Language settings -> English -> Options -> US (QUERTY) Remove (there should be "Lithuanian (AltGr)" already available)
-Language settings -> Lithuanian -> Options -> Lithuanian (QUERTY) Remove (there should be "Lithuanian (AltGr)" already available)
+* Run ltprog/setup.exe
+* Run usltprog/setup.exe
+* Reboot
+* Language settings -> English -> Options -> Remove US (QUERTY) *"Lithuanian (AltGr)" should already be there*
+* Language settings -> Lithuanian -> Options -> Remove Lithuanian (QUERTY) *"Lithuanian (AltGr)" should already be there*
 
 That's it, you don't need to switch languages to type lithuanian characters, but only for proofing tools to work when you need it.
